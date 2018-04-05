@@ -9,4 +9,5 @@ function multiply(a, b) {
 }
 function divide(a, b) { 
   return a/b; 
-} function inc(n)
+} function inc(n) { 
+  return n += 
