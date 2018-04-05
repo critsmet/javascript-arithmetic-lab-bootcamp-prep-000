@@ -1,3 +1,3 @@
 describe('add(a, b)', () => {
-  it('adds')
+  it('adds two numbrs and returns the result')
 }
