@@ -1,3 +1,1 @@
-add(a, b) {
-  return "a+b"
-}
+define add
